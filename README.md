@@ -1,4 +1,10 @@
-<div id="coinwidget" data-icon="true" data-type="primary" data-wallet="1Gc317G5YdGm4Mx27RXpaa2vToFQR8J1bt" />
+# gView GIS OS
+
+## Support this project
+
+... and spend some Bitcoins ...
+
+<div id="coinwidget" data-icon="true" data-type="primary" data-wallet="1BNSxXqsD4jdJyt7STCHDVhFk3XEKE5bSp" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ivandiazwm/coinwidget@0.1.1/builds/full.js" charset="utf-8"></script>
 
 

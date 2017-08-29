@@ -1,10 +1,5 @@
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+<div id="coinwidget" data-icon="true" data-type="primary" data-wallet="1Gc317G5YdGm4Mx27RXpaa2vToFQR8J1bt" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ivandiazwm/coinwidget@0.1.1/builds/full.js" charset="utf-8"></script>
 
 
 ## Welcome to GitHub Pages

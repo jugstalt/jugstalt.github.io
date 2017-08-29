@@ -1,3 +1,12 @@
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jugstalt/jugstalt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

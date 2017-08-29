@@ -1,47 +1,55 @@
 # gView GIS OS
 
-## Support this project
+**Support this project**
 
-... and spend some Bitcoins ...
+... and donate some Bitcoins ...
 
 <div id="coinwidget" data-icon="true" data-type="primary" data-wallet="1BNSxXqsD4jdJyt7STCHDVhFk3XEKE5bSp" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ivandiazwm/coinwidget@0.1.1/builds/full.js" charset="utf-8"></script>
 
+gView GIS - Userfriendly open source GI framework
 
-## Welcome to GitHub Pages
+gView GIS OS is a user-friendly open source GI framework for visualizing and managing spatial data (geodata). The entire framework is programmed in .NET (C#) and can be programmed with all. NET languages to expand plug-ins. The spectrum of these extensions includes custom tools, renderers for display of map objects, symbols, data sources for vector and raster data and interfaces to export the card on the gView Map Server. In addition to displaying the data the framework supports a lot more gview GIS features such as layer control, legend layout, and relevant spatial queries, topic marking (labeling) to measure distances and areas, and much more.
 
-You can use the [editor on GitHub](https://github.com/jugstalt/jugstalt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![alt tag](http://www.codeplex.com/Download?ProjectName=gviewgis&DownloadId=417769)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Features
 
-### Markdown
+* Reading popular vector and raster formats including ESRI shapefiles, ArcSDE, Postgre SQL, and raster formats including MrSid, JPEG2000, ...
+* Zoom in / out, pan
+* Free adjustable scale for viewing and printingAdding, removing, and sorting of layers 
+* Changing the look (color, style, fill, outline, symbols, transparency, etc.) for vector data layers
+* Transparent raster data layerThematic maps based on vector attribute information
+* Property-related data query using query editor
+* Measure distances, areas and angles 
+* Conjunction with external GPS receivers via Bluetooth to display and record the position
+* Representation composed of labels and topics of the texts of several attribute fields
+* Presentation of factual data in tabular form 
+* Selection of data due to physical and / or attribute queries
+* Redlining functionality (lines, circles, text, points, polylines, polygons) and transaction data storage in the map documents Several maps and data tables in a map document 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Main Components
 
-# Header 1
-## Header 2
-### Header 3
+## gView.Carto (Desktop):
+* Query, visualize and edit your spatial data
+* Create, save and publish map documents from your geospatial data
+* Import ArcXml documents and publish as gView.MapServer service 
 
-- Bulleted
-- List
+![alt tag](http://download-codeplex.sec.s-msft.com/Download?ProjectName=gviewgis&DownloadId=524809)
 
-1. Numbered
-2. List
+## gView.Data.Explorer (Desktop):
+* explore, manage and copy your spatial data 
 
-**Bold** and _Italic_ and `Code` text
+![alt tag](http://download-codeplex.sec.s-msft.com/Download?ProjectName=gviewgis&DownloadId=524810)
 
-[Link](url) and ![Image](src)
-```
+## gView.MapServer:
+* Publish your maps and data in various formats (WMS, WFS, AXL, GeoJSON, KML, ...)  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Architecture of the MapServer:
 
-### Jekyll Themes
+![alt-tag](http://download-codeplex.sec.s-msft.com/Download?ProjectName=gviewgis&DownloadId=437963)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jugstalt/jugstalt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Browse the capabilities of your server and services via a simple web interface
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![alt-tag](http://download-codeplex.sec.s-msft.com/Download?ProjectName=gviewgis&DownloadId=437964)

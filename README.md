@@ -2,16 +2,20 @@
 
 gView GIS - Userfriendly open source GI framework
 
+-------------------------------
+
 [Sourcecode](https://github.com/jugstalt/gViewGisOS)
 
 [Releases (Binaries)](https://github.com/jugstalt/gViewGisOS/releases)
+
+-------------------------------
 
 **Support this project** and donate some Bitcoins ...
 
 <div id="coinwidget" data-icon="true" data-type="primary" data-wallet="1BNSxXqsD4jdJyt7STCHDVhFk3XEKE5bSp" />
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ivandiazwm/coinwidget@0.1.1/builds/full.js" charset="utf-8"></script>
 
-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------
 
 gView GIS OS is a user-friendly open source GI framework for visualizing and managing spatial data (geodata). The entire framework is programmed in .NET (C#) and can be programmed with all. NET languages to expand plug-ins. The spectrum of these extensions includes custom tools, renderers for display of map objects, symbols, data sources for vector and raster data and interfaces to export the card on the gView Map Server. In addition to displaying the data the framework supports a lot more gview GIS features such as layer control, legend layout, and relevant spatial queries, topic marking (labeling) to measure distances and areas, and much more.
 

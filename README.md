@@ -2,8 +2,9 @@
 
 gView GIS - Userfriendly open source GI framework
 
-[Sourcecode on GitHub](https://github.com/jugstalt/gViewGisOS)
-[Latest Releases](https://github.com/jugstalt/gViewGisOS/releases)
+[Sourcecode](https://github.com/jugstalt/gViewGisOS)
+
+[Releases (Binaries)](https://github.com/jugstalt/gViewGisOS/releases)
 
 **Support this project** and donate some Bitcoins ...
 
